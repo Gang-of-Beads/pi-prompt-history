@@ -1,6 +1,6 @@
 {
   "name": "pi-prompt-history",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Ctrl-R style prompt history search for pi sessions.",
   "type": "module",
   "main": "./src/index.ts",
